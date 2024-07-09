@@ -1,1 +1,8 @@
-
+{
+  "url": "https://test-web3-airdrop-game.vercel.app",
+  "name": "Test Game",
+  "description": "This is my first telegram mini app",
+  "iconUrl": "https://test-web3-airdrop-game.vercel.app/icon.png",
+  "id": "test-game",
+  "requiredPermissions": ["ton:transfer"]
+}

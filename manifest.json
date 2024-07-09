@@ -1,0 +1,6 @@
+{
+    "manifest_url": "https://test-web3-airdrop-game.vercel.app/tonconnect-manifest.json",
+    "name": "Test Game",
+    "description": "This is my first telegram mini app",
+    "url": "https://test-web3-airdrop-game.vercel.app"
+  }

@@ -1,0 +1,9 @@
+{
+    "routes": [
+      {
+        "src": "/tonconnect-manifest.json",
+        "dest": "/public/tonconnect-manifest.json"
+      }
+    ]
+  }
+  

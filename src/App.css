@@ -1,0 +1,44 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #833ab4aa); /* Instagram mor hover efekti */
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #0088ccaa); /* Telegram mavi hover efekti */
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.ton-connect-button {
+  background-color: #0088cc; /* Telegram mavi */
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  transition: background-color 300ms;
+}
+.ton-connect-button:hover {
+  background-color: #006699;
+}
+
+.points-display {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #833ab4; /* Instagram mor */
+}
